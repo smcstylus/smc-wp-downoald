@@ -9,6 +9,6 @@ HOW TO:
 - In back-end: copy this file on your root WordPress. Edit $domainList and $fileList.
 Note: You can rename this file how do you like but remember to change in link too: from "yourdomain.com/smc-dl.php?_u=ID_GOES_HERE" to "yourdomain.com/new-file-name.php?_u=ID_GOES_HERE"
 
-Author: Mihai Calin SIMION 
-Website: https://www.smcstylus.com/
-February 2020
+| Author: Mihai Calin SIMION 
+ | Website: https://www.smcstylus.com/
+ | Date: February 2020 |
