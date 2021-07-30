@@ -2,7 +2,7 @@
 
 Nme: smcstylus WP Downloader v.1.0.0
 
-Description: Simple script to download files ('png', 'gif', 'tiff', 'jpeg', 'jpg','bmp','svg','pdf','zip','ppt', 'doc') based on the ID stored in the DB.
+Description: Simple script for WordPress to download files ('png', 'gif', 'tiff', 'jpeg', 'jpg','bmp','svg','pdf','zip','ppt', 'doc') based on the ID stored in the DB.
 
 HOW TO: 
 - In front-end: &lt;a href="yourdomain.com/smc-dl.php?_u=ID_GOES_HERE" target="_blank" rel="noindex, nofollow" title="Download">Download</a>
